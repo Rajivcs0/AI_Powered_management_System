@@ -238,15 +238,23 @@ The AI prioritization system can be customized by modifying the prediction algor
 4. Test thoroughly
 5. Submit a pull request
 
-## 📄 License
+<img width="1366" height="768" alt="Screenshot (271)" src="https://github.com/user-attachments/assets/fccf3c2b-fbd1-40cf-9311-79506cf6ca63" />
+<img width="1366" height="768" alt="Screenshot (270)" src="https://github.com/user-attachments/assets/2873654b-115b-4e2b-9cd2-33ec82555168" />
+<img width="1366" height="768" alt="Screenshot (269)" src="https://github.com/user-attachments/assets/27339f42-b16b-46a3-9ee2-c8e62efe19f5" />
+<img width="1366" height="768" alt="Screenshot (268)" src="https://github.com/user-attachments/assets/4e0f5340-da49-4241-b4f1-60d4e5e20023" />
+<img width="1366" height="768" alt="Screenshot (267)" src="https://github.com/user-attachments/assets/30b183eb-d8e6-4dd6-adf3-24d967e6ffb2" />
+<img width="1366" height="768" alt="Screenshot (266)" src="https://github.com/user-attachments/assets/f1f73e5a-e9d4-45f4-b509-c978f2859d55" />
+<img width="1366" height="768" alt="Screenshot (265)" src="https://github.com/user-attachments/assets/87bb3fd2-d7b6-4301-9301-45dd44e0a0c2" />
+<img width="1366" height="768" alt="Screenshot (264)" src="https://github.com/user-attachments/assets/8c043c79-3e6d-4739-a66e-bfe1332bbf85" />
+<img width="1366" height="768" alt="Screenshot (263)" src="https://github.com/user-attachments/assets/df6bc878-c793-43f5-930f-6b0c51298795" />
+<img width="1366" height="768" alt="Screenshot (262)" src="https://github.com/user-attachments/assets/d8653130-8801-47a2-98d9-b35206b9aa65" />
+<img width="1366" height="768" alt="Screenshot (261)" src="https://github.com/user-attachments/assets/283d9370-6bd7-4818-ba46-4220df7d9c66" />
+<img width="1366" height="768" alt="Screenshot (260)" src="https://github.com/user-attachments/assets/97dbdbca-c8ac-427b-b6d1-553569ee7e82" />
+<img width="1366" height="768" alt="Screenshot (259)" src="https://github.com/user-attachments/assets/74bdd18c-899b-43bb-ac97-9d8e5fe7ac57" />
+<img width="1366" height="768" alt="Screenshot (258)" src="https://github.com/user-attachments/assets/5f928a77-a42e-4fef-8e8d-21d2e3f58f81" />
+<img width="1366" height="768" alt="Screenshot (273)" src="https://github.com/user-attachments/assets/fdaf635f-b559-4ee5-8c6a-309675144771" />
+<img width="1366" height="768" alt="Screenshot (272)" src="https://github.com/user-attachments/assets/80e5b1cd-1e3d-4a97-b140-431a66672fd5" />
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🏢 About Global Analyst Technologies
-
-Global Web Work is developed for Global Analyst Technologies as an internal task management solution to improve productivity and streamline workflow processes.
-
-## 📞 Support
 
 For support and questions, please contact the development team or create an issue in the repository.
 
